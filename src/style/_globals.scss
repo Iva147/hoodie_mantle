@@ -1,0 +1,11 @@
+$accent: #CC8869;
+$text: #333;
+$fs: 16px;
+$lh: 1.65;
+$user-font: 1.65;
+$family: RobotoRegular, sans-serif;
+$transition: cubic-bezier(0.505, 0.010, 0.185, 0.995);
+
+@media screen and (max-width: 800px){
+  $fs: 12px;
+}
